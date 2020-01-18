@@ -3,6 +3,10 @@
 This application is intended to demonstrate a MERN stack application ready to
 deploy on Heroku.
 
+## Deploying to Heroku
+
+Use Heroku CLI or link to GitHub repo to deploy.
+
 ## Tools
 
 ### Code Formatting
